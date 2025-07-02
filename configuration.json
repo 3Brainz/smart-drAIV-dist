@@ -1,0 +1,15 @@
+{
+  "name": "smartDRAIV",
+  "supportEmail": "info@minervas.cloud",
+  "version": "0.0.1",
+  "items": [
+    {
+      "url": "smartDRAIV/smartDraiv.html",
+      "category": "SustainabilityId",
+      "menuName": {
+        "en": "smartDRAIV"
+      },
+      "icon": "smartDRAIV/images/icon.svg"
+    }
+  ]
+}
